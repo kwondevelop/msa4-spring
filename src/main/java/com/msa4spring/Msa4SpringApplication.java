@@ -9,5 +9,4 @@ public class Msa4SpringApplication {
     public static void main(String[] args) {
         SpringApplication.run(Msa4SpringApplication.class, args);
     }
-
 }
