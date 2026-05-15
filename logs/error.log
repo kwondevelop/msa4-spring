@@ -1,20 +1,9 @@
-2026-05-14T15:56:22.791+09:00  INFO 21732 --- [msa4-spring] [main] com.msa4spring.Msa4SpringApplication     : Starting Msa4SpringApplication using Java 17.0.19 with PID 21732 (E:\mj-msa4\workspace\msa4-spring\build\classes\java\main started by user in E:\mj-msa4\workspace\msa4-spring)
-2026-05-14T15:56:22.792+09:00  INFO 21732 --- [msa4-spring] [main] com.msa4spring.Msa4SpringApplication     : No active profile set, falling back to 1 default profile: "default"
-2026-05-14T15:56:23.157+09:00  INFO 21732 --- [msa4-spring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
-2026-05-14T15:56:23.164+09:00  INFO 21732 --- [msa4-spring] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2026-05-14T15:56:23.165+09:00  INFO 21732 --- [msa4-spring] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
-2026-05-14T15:56:23.188+09:00  INFO 21732 --- [msa4-spring] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 376 ms
-2026-05-14T15:56:23.359+09:00  INFO 21732 --- [msa4-spring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
-2026-05-14T15:56:23.362+09:00  INFO 21732 --- [msa4-spring] [main] com.msa4spring.Msa4SpringApplication     : Started Msa4SpringApplication in 0.818 seconds (process running for 1.084)
-2026-05-14T15:56:23.626+09:00  INFO 21732 --- [msa4-spring] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
-2026-05-14T15:56:23.644+09:00  INFO 21732 --- [msa4-spring] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
-2026-05-14T15:56:24.826+09:00  INFO 5052 --- [msa4-spring] [main] com.msa4spring.Msa4SpringApplication     : Starting Msa4SpringApplication using Java 17.0.19 with PID 5052 (E:\mj-msa4\workspace\msa4-spring\build\classes\java\main started by user in E:\mj-msa4\workspace\msa4-spring)
-2026-05-14T15:56:24.828+09:00  INFO 5052 --- [msa4-spring] [main] com.msa4spring.Msa4SpringApplication     : No active profile set, falling back to 1 default profile: "default"
-2026-05-14T15:56:25.193+09:00  INFO 5052 --- [msa4-spring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
-2026-05-14T15:56:25.199+09:00  INFO 5052 --- [msa4-spring] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2026-05-14T15:56:25.200+09:00  INFO 5052 --- [msa4-spring] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
-2026-05-14T15:56:25.222+09:00  INFO 5052 --- [msa4-spring] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 375 ms
-2026-05-14T15:56:25.395+09:00  INFO 5052 --- [msa4-spring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
-2026-05-14T15:56:25.398+09:00  INFO 5052 --- [msa4-spring] [main] com.msa4spring.Msa4SpringApplication     : Started Msa4SpringApplication in 0.807 seconds (process running for 1.072)
-2026-05-14T15:56:34.458+09:00  INFO 5052 --- [msa4-spring] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
-2026-05-14T15:56:34.475+09:00  INFO 5052 --- [msa4-spring] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-05-15T17:39:01.455+09:00 ERROR 8412 --- [msa4-spring] [http-nio-8080-exec-1] c.m.errors.GlobalExceptionHandler        : 예기치 못한 에러 발생
+2026-05-15T17:41:24.324+09:00 ERROR 27488 --- [msa4-spring] [http-nio-8080-exec-2] c.m.errors.GlobalExceptionHandler        : 예기치 못한 에러 발생
+2026-05-15T17:49:34.772+09:00 ERROR 27320 --- [msa4-spring] [http-nio-8080-exec-1] c.m.errors.GlobalExceptionHandler        : 예기치 못한 에러 발생
+2026-05-15T17:51:35.293+09:00 ERROR 23152 --- [msa4-spring] [http-nio-8080-exec-2] c.m.errors.GlobalExceptionHandler        : 예기치 못한 에러 발생
+2026-05-15T17:54:21.984+09:00 ERROR 5636 --- [msa4-spring] [http-nio-8080-exec-1] c.m.errors.GlobalExceptionHandler        : 예기치 못한 에러 발생
+2026-05-15T17:54:43.303+09:00 ERROR 10956 --- [msa4-spring] [http-nio-8080-exec-2] c.m.errors.GlobalExceptionHandler        : 예기치 못한 에러 발생
+2026-05-15T17:55:01.298+09:00 ERROR 15620 --- [msa4-spring] [http-nio-8080-exec-1] c.m.errors.GlobalExceptionHandler        : 예기치 못한 에러 발생
+2026-05-15T17:56:25.175+09:00 ERROR 4540 --- [msa4-spring] [http-nio-8080-exec-1] c.m.errors.GlobalExceptionHandler        : 예기치 못한 에러 발생
+2026-05-15T18:02:06.031+09:00 ERROR 2528 --- [msa4-spring] [http-nio-8080-exec-2] c.m.errors.GlobalExceptionHandler        : Could not open JDBC Connection for transaction
